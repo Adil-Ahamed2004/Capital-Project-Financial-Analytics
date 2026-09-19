@@ -100,7 +100,7 @@ DIVIDE(
     0
 )
 
-##How to Run Locally
+## How to Run Locally
 Clone the repository:
 
 //Bash
